@@ -1,0 +1,29 @@
+D:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe.config
+D:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe
+D:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.pdb
+D:\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csprojAssemblyReference.cache
+D:\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csproj.CoreCompileInputs.cache
+D:\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.exe
+D:\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.pdb
+E:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe.config
+E:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe
+E:\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.pdb
+E:\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csprojResolveAssemblyReference.cache
+E:\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csproj.CoreCompileInputs.cache
+E:\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.exe
+E:\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.pdb
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe.config
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.exe
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\bin\Debug\ChessGameAssignment.pdb
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csprojAssemblyReference.cache
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.exe
+C:\Users\Ronan\OneDrive\Desktop\usb ps\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.pdb
+C:\Users\Ronan\Downloads\ICS4U assignments 2018-20190913T020809Z-001\ICS4U assignments 2018\Assignment2\ChessGameAssignment\obj\Debug\ChessGameAssignment.pdb
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\bin\Debug\ConsoleChess.exe.config
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\bin\Debug\ConsoleChess.exe
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\bin\Debug\ConsoleChess.pdb
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csprojAssemblyReference.cache
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\obj\Debug\BattleChess.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\obj\Debug\ConsoleChess.exe
+C:\Users\Ronan\Desktop\GitHub Projects\Assignment2\ChessGameAssignment\obj\Debug\ConsoleChess.pdb
